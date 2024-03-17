@@ -37,7 +37,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-spotify.git
+git clone git@github.com:ranpy13/spotify-clone.git
 ```
 
 ### Install packages
