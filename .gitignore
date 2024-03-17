@@ -16,6 +16,8 @@
 /build
 .env
 .env.example
+/.env
+/.env.example
 
 # misc
 .DS_Store
